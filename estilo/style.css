@@ -15,6 +15,10 @@
     --cor3:#2C2F37;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color:var(--cor1) ;
     color: white;
